@@ -8,3 +8,5 @@ mvn clean install
 3. docker build -t <imagename> .
 
 4. docker run -p 8080:8080 <imagename>
+
+5. CI should build automatically
