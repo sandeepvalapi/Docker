@@ -1,7 +1,5 @@
 # Build Status -> [![CircleCI](https://circleci.com/gh/sandeepvalapi/Docker/tree/master.svg?style=svg)](https://circleci.com/gh/sandeepvalapi/Docker/tree/master)
 
-# Docker Build Status -> [![CircleCI](https://circleci.com/gh/sandeepvalapi/Docker/tree/master.svg?style=svg)](https://circleci.com/gh/sandeepvalapi/Docker/tree/master)
-
 1. This project uses Maven as build tool. Checkout the project and run below command
 > mvn clean install
 
